@@ -2,7 +2,7 @@
 #include<iostream>
 using namespace std;
 
-// Time Complexity - Linear Time
+// Time Complexity - O(N)
 int largeSubarray(int arr[], int n){
 
     int cs = 0;
